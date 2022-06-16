@@ -1,3 +1,4 @@
+## MrLiu646的主页
 <script type="text/javascript">
 var host = window.location.host;
 if (host=="mirrors-zhs141.vercel.app") 
@@ -6,8 +7,6 @@ if (host=="mirrors-zhs141.vercel.app")
 }
 </script>
 
-## MrLiu646的主页
-  
 这个只是个测试  
 
 ### 子页面：
