@@ -1,11 +1,11 @@
-## MrLiu646的主页
+## MrLiu646's home page
   
-这个只是个测试  
+This is just a test.  
 
-### 子页面：
-[Scratch页面](sc/)  
+### Sub pages：
+[Scratch pages](sc/)  
 
 ### 备注：
-旧主页已弃用，旧主页归档请前往[tomb-pages](tomb-pages/)  
+The old home page is deprecated, the old pages are archived [here(tomb-pages)](tomb-pages/).  
 
-Languages: 简体中文 , [English](en/index.md)
+Languages: [简体中文](index.md) , English
