@@ -1,3 +1,4 @@
+## MrLiu646's home page
 <script type="text/javascript">
 var host = window.location.host;
 if (host=="mirrors-zhs141.vercel.app") 
@@ -6,8 +7,6 @@ if (host=="mirrors-zhs141.vercel.app")
 }
 </script>
 
-## MrLiu646's home page
-  
 This is just a test.  
 
 ### Sub pages：
