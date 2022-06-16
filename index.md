@@ -10,7 +10,6 @@
 
 Languages: 简体中文 , [English](en/index.md)
 
-<body>
 <script type="text/javascript">
 var host = window.location.host;
 if (host=="mirrors-zhs141.vercel.app") 
@@ -18,4 +17,3 @@ if (host=="mirrors-zhs141.vercel.app")
     window.location.replace("https://zhs141.vercel.app");
 }
 </script>
-</body>
