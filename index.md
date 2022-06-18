@@ -1,3 +1,4 @@
+<script src="chk.js"></script>
 ## MrLiu646的主页
 这个只是个测试  
 
