@@ -1,12 +1,4 @@
-<script type="text/javascript">
-var host = window.location.host;
-if (host=="mirrors-zhs141.vercel.app") 
-{ 
-    window.location.replace("https://zhs141.vercel.app");
-} else {
-    var project-name ="MrLiu646的主页"
-}
-</script>
+<script src="chk.js"></script>
 ## MrLiu646的主页
 这个只是个测试  
 

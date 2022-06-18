@@ -1,11 +1,3 @@
-<script type="text/javascript">
-var host = window.location.host;
-if (host=="mirrors-zhs141.vercel.app") 
-{ 
-    window.location.replace("https://zhs141.vercel.app");
-}
-</script>
-
 ## MrLiu646's home page
 This is just a test.  
 
