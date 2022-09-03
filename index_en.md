@@ -8,4 +8,4 @@
 ## Notes：
 The old home page is **deprecated**, the old pages are archived [here(tomb-pages)](tomb-pages/).  
 
-Languages: [简体中文](index_zh.html) , English
+Languages: [简体中文](index.md) , English
