@@ -24,10 +24,7 @@
 
 ?> 正在施工  
 
-### 常用链接
-
-<details>
-<summary>常用网站(点击展开)</summary>
+### 常用网站
 
 [百度](https://www.baidu.com)  
 [百度翻译](https://fanyi.baidu.com)  
@@ -36,10 +33,7 @@
 [哔哩哔哩](https://www.bilibili.com)  
 [JiJidown](https://client.jijidown.com)  
 
-</details>
-
-<details>
-<summary>镜像站(点击展开)</summary>
+### 软件镜像站
 
 [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)  
 [北京外国语大学开源软件镜像站](https://mirrors.bfsu.edu.cn)  
@@ -47,13 +41,16 @@
 [npmmirror](https://npmmirror.com)  
 [UNPKG](https://unpkg.com)  
 
-</details>
+### 工具
 
 [Docsify](https://docsify.js.org/)  
 [AList-v3](https://alist.nn.ci)  
+[Github Proxy](https://gh-proxy.com)
+
+### 代码/网页托管
 
 [Github](https://github.com)  
-[Github Proxy](https://gh-proxy.com)  
+[Gitee](https://gitee.com)
 [Netlify](https://netlify.com)  
 [Replit](https://replit.com)  
 
